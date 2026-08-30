@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier
-_commit: 7522e24
+_commit: 195919b
 _src_path: https://github.com/python-project-templates/base.git
 add_extension: site-sveltekit
 brand_name: Example
@@ -8,3 +8,4 @@ project_description: A fast, accessible SvelteKit website.
 project_name: javascript-template-site-sveltekit
 site_adapter: static
 site_url: https://example.com
+
